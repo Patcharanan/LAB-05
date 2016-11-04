@@ -42,11 +42,9 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic3.png)
 
  2.6). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://raw.githubusercontent.com/Patcharanan/LAB-05/efbce563b2b5348bcd8fb789ded8de4c0c4ccf82/img/3.PNG)
+
+ * เป็นการแสดงค่าออกมาโดยดึงข้อมูลตัวที่ 2 ,1 และ 2 ในข้อมูล 3, 6 จะได้ผล -> 6 ,3 and 6
 
 3). ทดลองเรื่องการกำหนดความกว้างของอาร์กิวเมนต์
 
