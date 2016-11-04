@@ -113,3 +113,5 @@
           Console.WriteLine("{0}\t{1}\t{2}", i, i*i, i*i*i); 
 15.    Console.WriteLine("{0:#.###}.", 1234.56789);
 ```
+
+![](https://github.com/Patcharanan/LAB-05/blob/master/img/8.PNG?raw=true)
