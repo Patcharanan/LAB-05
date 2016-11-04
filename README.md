@@ -53,11 +53,9 @@
   ![](https://github.com/Desktop-Programming-Lab-2559/LAB-05/blob/master/img/pic4.png)
 
   3.2). รันโปรแกรม และบันทึกผลที่ได้
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/Patcharanan/LAB-05/blob/master/img/4.PNG?raw=true)
+
+* เป็นการโชว์เลข 1 ตามตำแหน่งที่กำหนดไว้ตามตำแหน่ง {0,x},1 ; ปล. x คือตำแหน่งที่กำหนดไว้
 
 ###คำถาม 5.3 การกำหนดความกว้างของอาร์กิวเมนต์ด้วยเครื่องหมาย { , }  ในคำสั่ง Console.WriteLine() มีรูปแบบการใช้งานอย่างไร
 <hr>
