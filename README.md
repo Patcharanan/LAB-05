@@ -23,7 +23,7 @@
 
  2.4). รันโปรแกรม และบันทึกผลที่ได้
 
-
+![](https://github.com/Patcharanan/LAB-05/blob/master/img/2.PNG?raw=true)
 
 
 
